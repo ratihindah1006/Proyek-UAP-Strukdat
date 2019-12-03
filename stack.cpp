@@ -61,7 +61,6 @@ output<<"Pilih : "; input>>pilih;
 			
 	default:
 			output <<"\t\nPilihan tidak ada";
-			input.get();
 			break;
          
  	}
@@ -73,12 +72,12 @@ int nama()
 output<<"\t\t============================================"<<enter;
 output<<"\t\t|                                           |"<<enter;
 output<<"\t\t|          PROGRAM DIBUAT OLEH :            |"<<enter;
-output<<"\t\t|          RATIH inputDAH WARDANI              |"<<enter;
+output<<"\t\t|          RATIH inputDAH WARDANI           |"<<enter;
 output<<"\t\t|          RAHMADILA NURJANNAH              |"<<enter;
 output<<"\t\t|          DEWI LESTARI                     |"<<enter;
 output<<"\t\t|                                           |"<<enter;
 output<<"\t\t============================================"<<enter<<enter;
 
 output<<"Deskripsi Program :"<<enter;
-output<<"Program inputi dibuat untuk menentukan urutan UAS lisan mahasiswa S1 Ilmu Komputer 2018"<<enter;
+output<<"Program ini dibuat untuk menentukan urutan UAS lisan mahasiswa S1 Ilmu Komputer 2018"<<enter;
 }
