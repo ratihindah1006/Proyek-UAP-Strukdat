@@ -16,14 +16,14 @@ int main()
 
 		output<<enter<<enter<<enter;
    
-		output<<"===================\n";
-		output<<"|     PILIHAN     |\n";
-		output<<"===================\n";
-		output<<"1. Push \n";
-		output<<"2. Pop \n";
-		output<<"3. Tampilkan\n";
-		output<<"4. exit \n";
-		output<<"===================\n";
+		output<<"===========================\n";
+		output<<"|         PILIHAN         |\n";
+		output<<"===========================\n";
+		output<<"|1. Mendaftar             |\n";
+		output<<"|2. Pemanggilan Pendafar  |\n";
+		output<<"|3. Tampilkan antrian     |\n";
+		output<<"|4. Keluar Program        |\n";
+		output<<"===========================\n";
    
 		output<<"Pilih : "; input>>pilih;
 
