@@ -76,7 +76,7 @@ int nama()
 	output<<"\t\t============================================"<<enter;
 	output<<"\t\t|                                           |"<<enter;
 	output<<"\t\t|          PROGRAM DIBUAT OLEH :            |"<<enter;
-	output<<"\t\t|          RATIH inputDAH WARDANI           |"<<enter;
+	output<<"\t\t|          RATIH INDAH WARDANI              |"<<enter;
 	output<<"\t\t|          RAHMADILA NURJANNAH              |"<<enter;
 	output<<"\t\t|          DEWI LESTARI                     |"<<enter;
 	output<<"\t\t|                                           |"<<enter;
